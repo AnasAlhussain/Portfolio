@@ -7,7 +7,7 @@ export const projects = [
   
 
    {
-    ImageURL: "/assets/hqdefault.jpg",
+    ImageURL: "Portfolio/assets/hqdefault.jpg",
     Title: "Budget-Tracker",
     Description:
       "A full-stack Budget-Tracker app for tracking your expenses and income.",
@@ -29,7 +29,7 @@ export const projects = [
     Demo: "",
   },
    {
-    ImageURL: "/assets/67b77cdc2de40.image.jpg",
+    ImageURL: "Portfolio/assets/67b77cdc2de40.image.jpg",
     Title: "WebShop-Candy",
     Description:
       "A full-stack WebShop app for  buying candies online.",
@@ -49,7 +49,7 @@ export const projects = [
     Demo: "",
   },
   {
-    ImageURL: "/assets/Banner-–-1-scaled.jpg",
+    ImageURL: "Portfolio/assets/Banner-–-1-scaled.jpg",
     Title: "MinmalAPI_MVC UI",
     Description:
       "A full-stack MinmalAPI_MVC UI for managing products and categories.",
@@ -74,7 +74,7 @@ export const projects = [
   },
 
    {
-    ImageURL: "/assets/hq720.jpg",
+    ImageURL: "Portfolio/assets/hq720.jpg",
     Title: "Amaing Teknik",
     Description:
       "A Rest API Amaing Teknik for managing products, orders and customers.",
