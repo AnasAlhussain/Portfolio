@@ -8,7 +8,8 @@ export const homeData = {
   // To use your own photo, just place it in /public/assets and write the link as I did: eg: /assets/my_image.jpg
   // Of course it's best to convert your image file type to webp for better performance on the web!
   // The links are optional
-  myImage: "/assets/profile-pic(2).png",
+  myImage: "Portfolio/assets/profile-pic(2).png",
+  // new URL("./assets/profile-pic(2).png", import.meta.url).href,
   contactInfo: [
     {
       Icon: IoMdMail,
@@ -18,7 +19,7 @@ export const homeData = {
     {
       Icon: FaLocationDot,
       Label: "Borås, Sweden",
-      Link: "https://www.google.com/maps/place/Cairo,+Cairo+Governorate/@30.0594885,31.2584644,13z", // This is just a simple location of my city
+      Link: "https://www.google.se/maps/search/%7B%7Badress%7D%7D+Bor%C3%A5s/@57.724586,12.7623652,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYyMi4wIKXMDSoASAFQAw%3D%3D", // This is just a simple location of my city
     },
     {
       Icon: FaPhoneAlt,
