@@ -7,8 +7,8 @@ export const projects = [
   
 
    {
-    // ImageURL: "/Portfolio/assets/hqdefault.jpg",
-    ImageURL: `${import.meta.env.BASE_URL}assets/hqdefault.jpg`,
+     ImageURL: "/Portfolio/assets/hqdefault.jpg",
+    // ImageURL: `${import.meta.env.BASE_URL}assets/hqdefault.jpg`,
     Title: "Budget-Tracker",
     Description:
       "A full-stack Budget-Tracker app for tracking your expenses and income.",
