@@ -7,8 +7,8 @@ export const projects = [
   
 
    {
-     ImageURL: "/Portfolio/assets/hqdefault.jpg",
-    // ImageURL: `${import.meta.env.BASE_URL}assets/hqdefault.jpg`,
+    //  ImageURL: "/Portfolio/assets/hqdefault.jpg",
+     ImageURL: `${import.meta.env.BASE_URL}assets/hqdefault.webp`,
     Title: "Budget-Tracker",
     Description:
       "A full-stack Budget-Tracker app for tracking your expenses and income.",
@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     // ImageURL: "/Portfolio/assets/Banner-–-1-scaled.jpg",
-    ImageURL: `${import.meta.env.BASE_URL}assets/Banner-–-1-scaled.jpg`,
+    ImageURL: `${import.meta.env.BASE_URL}assets/Banner-–-1-scaled.webp`,
     Title: "MinmalAPI_MVC UI",
     Description:
       "A full-stack MinmalAPI_MVC UI for managing products and categories.",
@@ -78,7 +78,7 @@ export const projects = [
 
    {
     // ImageURL: "/Portfolio/assets/hq720.jpg",
-        ImageURL: `${import.meta.env.BASE_URL}assets/hq720.jpg`,
+        ImageURL: `${import.meta.env.BASE_URL}assets/hq720.webp`,
 
     Title: "Amaing Teknik",
     Description:
